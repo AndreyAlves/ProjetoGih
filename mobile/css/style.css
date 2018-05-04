@@ -1,0 +1,165 @@
+body
+{
+  width: auto; height: auto;
+  font-family: Calibri;
+  -webkit-font-smoothing: antialiased;
+
+  background-color: #532900;
+}
+
+/* ======================= LOGIN MOBILE ======================= */
+
+#logo
+{
+  width: 350px; height: 200px;
+  border: 1px solid; border-radius: 10px;
+  margin-top: 50px; margin-left: 300px;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 150px;
+
+  background-color: white;
+}
+
+#nome
+{
+  width: 750px; height: 150px;
+  border: 0px solid; border-radius: 10px;
+  margin-top: 50px; margin-left: 100px;
+  font-size: 100px;
+  color: yellow;
+  text-align: center;
+}
+
+#login
+{
+  width: 100%; height: 800px;
+  margin-top: 50px;
+  border: solid 1.5px; border-radius: 10px;
+
+  background-color: white;
+}
+
+#login input
+{
+  width: 800px; height: 100px;
+  border: 1px solid; border-radius: 5px;
+  margin-top: 120px; margin-left: 70px;
+  font-size: 50px;
+}
+
+#botao_logar
+{
+  width: 350px; height: 100px;
+  border: 1px solid; border-radius: 5px;
+  margin-top: 120px; margin-left: 80px;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 40px;
+  float: left;
+  color: yellow;
+
+  background-color: #532900;
+}
+
+#botao_cadastrar
+{
+  width: 350px; height: 100px;
+  border: 5px solid #532900; border-radius: 5px;
+  margin-top: 120px; margin-left: 80px;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 40px;
+  float: left;
+}
+
+/* ======================= CADASTRO MOBILE ======================= */
+#cadastro
+{
+  width: 100%; height: 1000px;
+  margin-top: 150px;
+  border: solid 1.5px; border-radius: 10px;
+
+  background-color: white;
+}
+
+#cadastro input
+{
+  width: 800px; height: 100px;
+  border: 1px solid; border-radius: 5px;
+  margin-top: 120px; margin-left: 70px;
+  font-size: 50px;
+}
+
+#botao_cadastrar_cadastro
+{
+  width: 350px; height: 100px;
+  border: 1px solid; border-radius: 15px;
+  margin-top: 120px; margin-left: 300px;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 40px;
+  float: left;
+  color: yellow;
+
+  background-color: #532900;
+}
+
+/* ======================= CARDÁPIO MOBILE ======================= */
+
+#cardapio
+{
+  width: 100%; height: 1000px;
+  margin-top: 150px;
+  border: solid 1.5px; border-radius: 10px;
+
+  background-color: white;
+}
+
+.img_prato
+{
+  width: 900px; height: 400px;
+  margin-top: 50px; margin-left: 25px;
+  border: solid 1.5px; border-radius: 10px;
+
+  background-color: white;
+
+  font-size: 100px;
+  text-align: center;
+  padding-top: 150px;
+}
+
+#nome_prato
+{
+  width: 100%; height: 150px;
+  border: 0px solid;
+  font-size: 100px;
+  text-align: center;
+}
+
+#botao_pedir
+{
+  width: 350px; height: 100px;
+  border: 1px solid; border-radius: 15px;
+  margin-top: 70px; margin-left: 550px;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 40px;
+  float: left;
+  color: yellow;
+
+  background-color: #532900;
+}
+
+footer
+{
+  width: 100%; height: 150px;
+  /* position: fixed; */
+  margin-top: 10px;
+  border: solid 1.5px; border-radius: 10px;
+  font-size: 70px;
+  text-align: center;
+  padding-top: 60px;
+
+  background-color: white;
+}
